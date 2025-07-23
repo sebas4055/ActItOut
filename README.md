@@ -26,15 +26,11 @@ With no formal programming education or local resources, I taught myself Swift a
 ## What I’d Improve Now
 This was my first-ever mobile app, and I built it before taking any formal computer science courses. I was completely self-taught—relying on YouTube tutorials, Apple documentation, and trial-and-error to get things working. That meant writing a lot of simple, repetitive code just to get the job done.
 
-Since then, I’ve taken university-level programming courses and learned more about code structure, abstraction, and maintainability. If I were rebuilding this app today, I would:
-
-Refactor repeated logic using enums, arrays, and dictionaries
-
-Separate the UI from the game logic using clearer architecture (e.g., MVC or MVVM)
-
-Improve localization support for English/Spanish switching
-
-Use more modular components for better scalability and readability
-
+- Since then, I’ve taken university-level programming courses and learned more about code structure, abstraction, and maintainability. If I were rebuilding this app today, I would:
+- Refactor repeated logic using enums, arrays, and dictionaries
+- Separate the UI from the game logic using clearer architecture (e.g., MVC or MVVM)
+- Improve localization support for English/Spanish switching
+- Use more modular components for better scalability and readability
+  
 This project taught me how to solve problems with limited tools—and it gave me a foundation I’ve been building on ever since.
 
